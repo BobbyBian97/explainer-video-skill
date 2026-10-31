@@ -2,10 +2,9 @@
 
 用一条流水线，把主题或文稿变成带 AI 配音、逐句同步动画、中文字幕和封面的 1080P 讲解视频。
 
-[![示例成片](assets/demo-cover.jpg)](https://dl.ai-bong.cn/aireview/video/)
+![示例成片](assets/demo-cover.jpg)
 
 > 示例成片：**《分布式锁是什么？为什么 synchronized 锁不住你的集群？》** 6:49 / 1080P / 30fps
-> 在线播放：<https://dl.ai-bong.cn/aireview/video/>
 
 ## 特性
 

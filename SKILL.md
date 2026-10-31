@@ -7,8 +7,7 @@ description: 制作带 AI 配音、中文字幕、逐帧动画的 1080P 横屏�
 
 把「主题或文稿」变成一条可直接上传的 1080P 讲解成片：AI 配音 + 逐句同步动画 + 烧录字幕 + 环境 BGM + 封面。
 
-一套完整示例在 `examples/distributed-lock/`（6 分 49 秒，12 个场景）。成品预览：
-<https://dl.ai-bong.cn/aireview/video/>
+一套完整示例在 `examples/distributed-lock/`（6 分 49 秒，12 个场景）。
 
 ## 这个技能适合什么
 

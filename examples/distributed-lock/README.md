@@ -3,7 +3,6 @@
 这是技能附带的完整参考项目，也是线上成片的源工程。
 
 - 成片：6:49 / 1920×1080 / 30fps
-- 在线播放：<https://dl.ai-bong.cn/aireview/video/>
 - 源：`script.json` + `scenes.py` + `cover.py`
 
 ## 运行
